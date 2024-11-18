@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Juili Vyas\\Assignment\\.Net practice\\Assignment01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{654E8D49-80F7-4C80-BA04-7710AE81001E}|Q3DoWhile\\Q3DoWhile.csproj|d:\\juili vyas\\assignment\\.net practice\\assignment01\\q3dowhile\\calc_dowhile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654E8D49-80F7-4C80-BA04-7710AE81001E}|Q3DoWhile\\Q3DoWhile.csproj|solutionrelative:q3dowhile\\calc_dowhile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF610538-6E53-4500-809F-41CA21524D3E}|Q2SwitchCase\\Q2SwitchCase.csproj|D:\\Juili Vyas\\Assignment\\.Net practice\\Assignment01\\q2switchcase\\calc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF610538-6E53-4500-809F-41CA21524D3E}|Q2SwitchCase\\Q2SwitchCase.csproj|solutionrelative:q2switchcase\\calc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14399744-B7F5-4021-940B-BE60A0E197B5}|CalcLib\\CalcLib.csproj|D:\\Juili Vyas\\Assignment\\.Net practice\\Assignment01\\calclib\\maths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14399744-B7F5-4021-940B-BE60A0E197B5}|CalcLib\\CalcLib.csproj|solutionrelative:calclib\\maths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calc.cs",
+              "DocumentMoniker": "D:\\Juili Vyas\\Assignment\\.Net practice\\Assignment01\\Q2SwitchCase\\Calc.cs",
+              "RelativeDocumentMoniker": "Q2SwitchCase\\Calc.cs",
+              "ToolTip": "D:\\Juili Vyas\\Assignment\\.Net practice\\Assignment01\\Q2SwitchCase\\Calc.cs",
+              "RelativeToolTip": "Q2SwitchCase\\Calc.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:32:12.476Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Maths.cs",
+              "DocumentMoniker": "D:\\Juili Vyas\\Assignment\\.Net practice\\Assignment01\\CalcLib\\Maths.cs",
+              "RelativeDocumentMoniker": "CalcLib\\Maths.cs",
+              "ToolTip": "D:\\Juili Vyas\\Assignment\\.Net practice\\Assignment01\\CalcLib\\Maths.cs",
+              "RelativeToolTip": "CalcLib\\Maths.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T14:33:07.43Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calc_DoWhile.cs",
+              "DocumentMoniker": "D:\\Juili Vyas\\Assignment\\.Net practice\\Assignment01\\Q3DoWhile\\Calc_DoWhile.cs",
+              "RelativeDocumentMoniker": "Q3DoWhile\\Calc_DoWhile.cs",
+              "ToolTip": "D:\\Juili Vyas\\Assignment\\.Net practice\\Assignment01\\Q3DoWhile\\Calc_DoWhile.cs",
+              "RelativeToolTip": "Q3DoWhile\\Calc_DoWhile.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwBoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T15:17:07.146Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

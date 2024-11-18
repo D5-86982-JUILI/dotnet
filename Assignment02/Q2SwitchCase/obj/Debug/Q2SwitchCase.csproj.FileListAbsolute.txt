@@ -1,0 +1,10 @@
+D:\Juili Vyas\Assignment\.Net practice\Assignment01\Q2SwitchCase\bin\Debug\Q2SwitchCase.exe.config
+D:\Juili Vyas\Assignment\.Net practice\Assignment01\Q2SwitchCase\bin\Debug\Q2SwitchCase.exe
+D:\Juili Vyas\Assignment\.Net practice\Assignment01\Q2SwitchCase\bin\Debug\Q2SwitchCase.pdb
+D:\Juili Vyas\Assignment\.Net practice\Assignment01\Q2SwitchCase\bin\Debug\CalcLib.dll
+D:\Juili Vyas\Assignment\.Net practice\Assignment01\Q2SwitchCase\bin\Debug\CalcLib.pdb
+D:\Juili Vyas\Assignment\.Net practice\Assignment01\Q2SwitchCase\obj\Debug\Q2SwitchCase.csproj.AssemblyReference.cache
+D:\Juili Vyas\Assignment\.Net practice\Assignment01\Q2SwitchCase\obj\Debug\Q2SwitchCase.csproj.CoreCompileInputs.cache
+D:\Juili Vyas\Assignment\.Net practice\Assignment01\Q2SwitchCase\obj\Debug\Q2Switch.6A5E1F40.Up2Date
+D:\Juili Vyas\Assignment\.Net practice\Assignment01\Q2SwitchCase\obj\Debug\Q2SwitchCase.exe
+D:\Juili Vyas\Assignment\.Net practice\Assignment01\Q2SwitchCase\obj\Debug\Q2SwitchCase.pdb
