@@ -1,0 +1,7 @@
+D:\Juili Vyas\Assignment\.Net practice\Assignment01\Q1HelloWorld\bin\Debug\Q1HelloWorld.exe.config
+D:\Juili Vyas\Assignment\.Net practice\Assignment01\Q1HelloWorld\bin\Debug\Q1HelloWorld.exe
+D:\Juili Vyas\Assignment\.Net practice\Assignment01\Q1HelloWorld\bin\Debug\Q1HelloWorld.pdb
+D:\Juili Vyas\Assignment\.Net practice\Assignment01\Q1HelloWorld\obj\Debug\Q1HelloWorld.csproj.AssemblyReference.cache
+D:\Juili Vyas\Assignment\.Net practice\Assignment01\Q1HelloWorld\obj\Debug\Q1HelloWorld.csproj.CoreCompileInputs.cache
+D:\Juili Vyas\Assignment\.Net practice\Assignment01\Q1HelloWorld\obj\Debug\Q1HelloWorld.exe
+D:\Juili Vyas\Assignment\.Net practice\Assignment01\Q1HelloWorld\obj\Debug\Q1HelloWorld.pdb
