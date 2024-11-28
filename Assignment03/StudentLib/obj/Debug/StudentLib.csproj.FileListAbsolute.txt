@@ -1,0 +1,6 @@
+D:\Juili Vyas\Assignment\.Net practice\Assignment03\StudentLib\bin\Debug\StudentLib.dll
+D:\Juili Vyas\Assignment\.Net practice\Assignment03\StudentLib\bin\Debug\StudentLib.pdb
+D:\Juili Vyas\Assignment\.Net practice\Assignment03\StudentLib\obj\Debug\StudentLib.csproj.AssemblyReference.cache
+D:\Juili Vyas\Assignment\.Net practice\Assignment03\StudentLib\obj\Debug\StudentLib.csproj.CoreCompileInputs.cache
+D:\Juili Vyas\Assignment\.Net practice\Assignment03\StudentLib\obj\Debug\StudentLib.dll
+D:\Juili Vyas\Assignment\.Net practice\Assignment03\StudentLib\obj\Debug\StudentLib.pdb
