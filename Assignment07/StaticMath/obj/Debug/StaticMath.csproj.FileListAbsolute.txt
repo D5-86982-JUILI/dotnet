@@ -1,6 +1,0 @@
-D:\sunbeam assignment\dotnet\que18\StaticMath\bin\Debug\StaticMath.exe
-D:\sunbeam assignment\dotnet\que18\StaticMath\bin\Debug\StaticMath.pdb
-D:\sunbeam assignment\dotnet\que18\StaticMath\obj\Debug\StaticMath.csproj.AssemblyReference.cache
-D:\sunbeam assignment\dotnet\que18\StaticMath\obj\Debug\StaticMath.csproj.CoreCompileInputs.cache
-D:\sunbeam assignment\dotnet\que18\StaticMath\obj\Debug\StaticMath.exe
-D:\sunbeam assignment\dotnet\que18\StaticMath\obj\Debug\StaticMath.pdb
