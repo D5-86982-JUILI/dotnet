@@ -1,6 +1,0 @@
-D:\sunbeam assignment\dotnet\que17\employeeLib\bin\Debug\employeeLib.dll
-D:\sunbeam assignment\dotnet\que17\employeeLib\bin\Debug\employeeLib.pdb
-D:\sunbeam assignment\dotnet\que17\employeeLib\obj\Debug\employeeLib.csproj.AssemblyReference.cache
-D:\sunbeam assignment\dotnet\que17\employeeLib\obj\Debug\employeeLib.csproj.CoreCompileInputs.cache
-D:\sunbeam assignment\dotnet\que17\employeeLib\obj\Debug\employeeLib.dll
-D:\sunbeam assignment\dotnet\que17\employeeLib\obj\Debug\employeeLib.pdb
