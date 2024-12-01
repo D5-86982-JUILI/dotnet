@@ -1,0 +1,6 @@
+D:\sunbeam assignment\dotnet\que18\Que18\bin\Debug\Que18.exe
+D:\sunbeam assignment\dotnet\que18\Que18\bin\Debug\Que18.pdb
+D:\sunbeam assignment\dotnet\que18\Que18\obj\Debug\Que18.csproj.AssemblyReference.cache
+D:\sunbeam assignment\dotnet\que18\Que18\obj\Debug\Que18.csproj.CoreCompileInputs.cache
+D:\sunbeam assignment\dotnet\que18\Que18\obj\Debug\Que18.exe
+D:\sunbeam assignment\dotnet\que18\Que18\obj\Debug\Que18.pdb
