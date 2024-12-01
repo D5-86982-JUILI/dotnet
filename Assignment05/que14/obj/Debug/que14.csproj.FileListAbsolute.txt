@@ -1,0 +1,10 @@
+D:\sunbeam assignment\dotnet\que14\que14\bin\Debug\que14.exe.config
+D:\sunbeam assignment\dotnet\que14\que14\bin\Debug\que14.exe
+D:\sunbeam assignment\dotnet\que14\que14\bin\Debug\que14.pdb
+D:\sunbeam assignment\dotnet\que14\que14\bin\Debug\EmplyoeeLib.dll
+D:\sunbeam assignment\dotnet\que14\que14\bin\Debug\EmplyoeeLib.pdb
+D:\sunbeam assignment\dotnet\que14\que14\obj\Debug\que14.csproj.AssemblyReference.cache
+D:\sunbeam assignment\dotnet\que14\que14\obj\Debug\que14.csproj.CoreCompileInputs.cache
+D:\sunbeam assignment\dotnet\que14\que14\obj\Debug\que14.csproj.Up2Date
+D:\sunbeam assignment\dotnet\que14\que14\obj\Debug\que14.exe
+D:\sunbeam assignment\dotnet\que14\que14\obj\Debug\que14.pdb
