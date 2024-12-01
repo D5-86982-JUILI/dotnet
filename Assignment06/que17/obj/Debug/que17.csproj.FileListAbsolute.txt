@@ -1,0 +1,10 @@
+D:\sunbeam assignment\dotnet\que17\que17\bin\Debug\que17.exe.config
+D:\sunbeam assignment\dotnet\que17\que17\bin\Debug\que17.exe
+D:\sunbeam assignment\dotnet\que17\que17\bin\Debug\que17.pdb
+D:\sunbeam assignment\dotnet\que17\que17\bin\Debug\employeeLib.dll
+D:\sunbeam assignment\dotnet\que17\que17\bin\Debug\employeeLib.pdb
+D:\sunbeam assignment\dotnet\que17\que17\obj\Debug\que17.csproj.AssemblyReference.cache
+D:\sunbeam assignment\dotnet\que17\que17\obj\Debug\que17.csproj.CoreCompileInputs.cache
+D:\sunbeam assignment\dotnet\que17\que17\obj\Debug\que17.csproj.Up2Date
+D:\sunbeam assignment\dotnet\que17\que17\obj\Debug\que17.exe
+D:\sunbeam assignment\dotnet\que17\que17\obj\Debug\que17.pdb
