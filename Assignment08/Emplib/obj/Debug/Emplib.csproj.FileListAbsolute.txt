@@ -1,6 +1,0 @@
-D:\sunbeam assignment\dotnet\que20\Emplib\bin\Debug\Emplib.dll
-D:\sunbeam assignment\dotnet\que20\Emplib\bin\Debug\Emplib.pdb
-D:\sunbeam assignment\dotnet\que20\Emplib\obj\Debug\Emplib.csproj.AssemblyReference.cache
-D:\sunbeam assignment\dotnet\que20\Emplib\obj\Debug\Emplib.csproj.CoreCompileInputs.cache
-D:\sunbeam assignment\dotnet\que20\Emplib\obj\Debug\Emplib.dll
-D:\sunbeam assignment\dotnet\que20\Emplib\obj\Debug\Emplib.pdb
