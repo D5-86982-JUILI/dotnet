@@ -1,0 +1,6 @@
+D:\sunbeam assignment\dotnet\que6to13\EmplyoeeLib\obj\Debug\EmplyoeeLib.csproj.AssemblyReference.cache
+D:\sunbeam assignment\dotnet\que6to13\EmplyoeeLib\obj\Debug\EmplyoeeLib.csproj.CoreCompileInputs.cache
+D:\sunbeam assignment\dotnet\que6to13\EmplyoeeLib\bin\Debug\EmplyoeeLib.dll
+D:\sunbeam assignment\dotnet\que6to13\EmplyoeeLib\bin\Debug\EmplyoeeLib.pdb
+D:\sunbeam assignment\dotnet\que6to13\EmplyoeeLib\obj\Debug\EmplyoeeLib.dll
+D:\sunbeam assignment\dotnet\que6to13\EmplyoeeLib\obj\Debug\EmplyoeeLib.pdb
